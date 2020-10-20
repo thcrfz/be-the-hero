@@ -9,4 +9,4 @@ Foi utilizado o reactJS para o desenvolvimento no frontend, e algumas libraries 
 
 Já no bacekend foi utilizado o nodeJS junto com NextJs e SqlLite3 para o banco de dados.
 .
-Confira o link do projeto [aqui] (https://thcrfz.github.io/be-the-hero/#/).
+Confira o link do projeto [aqui](https://thcrfz.github.io/be-the-hero/#/).
